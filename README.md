@@ -1,6 +1,6 @@
-# Project Title
+# PurificationBot | Making Reddit a Better Place, One Comment at a Time!
 
-This is a reddit bot that I built to easily receive reddit comments, and replies with text saying various phrases that essentially say REPENT!, linking to a picture of a priest holding out a cross. I'm having a lot of fun with this project, and will continue to update it in the future.
+This is a reddit bot that I built which processes over 45,000 comments per hour. It easily receives reddit comments, and replies with text saying various phrases that essentially say REPENT!, linking to a picture of a priest holding out a cross. I'm having a lot of fun with this project, and will continue to update it in the future.
 
 ## Getting Started
 
@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-
+Node.JS, NPM, Dotenv, Snoostorm, Snoowrap (Instructions below to install these)!
 ```
 
 ### Installing
