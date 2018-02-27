@@ -1,0 +1,16 @@
+{
+  "name": "redditbot",
+  "version": "1.0.0",
+  "description": "finds lenny comments and replies with purification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hunter Harding <htharding@gmail.com> (http://www.hunterharding.com)",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "snoostorm": "0.0.5",
+    "snoowrap": "^1.15.2"
+  }
+}
