@@ -1,14 +1,13 @@
 # PurificationBot | Making Reddit a Better Place, One Comment at a Time!
 
-This is a reddit bot that I built which processes over 45,000 comments per hour. It easily receives reddit comments, and replies with text saying various phrases that essentially say REPENT!, linking to a picture of a priest holding out a cross. I'm having a lot of fun with this project, and will continue to update it in the future.
+This is a reddit bot that I built which processes over 45,000 comments per hour. It easily receives reddit comments, and replies with text of various phrases that essentially say REPENT!, linking to a picture of a priest holding out a cross. I'm having a lot of fun with this project, and will continue to update it in the future.
 
+This bot is currently in the top #600 out of all reddit bots worldwide @ https://goodbot-badbot.herokuapp.com/all_filter .
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-
-What things you need to install the software and how to install them
 
 ```
 Node.JS, NPM, Dotenv, Snoostorm, Snoowrap (Instructions below to install these)!
@@ -16,9 +15,6 @@ Node.JS, NPM, Dotenv, Snoostorm, Snoowrap (Instructions below to install these)!
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
 
 ```
 1. You must create a reddit application, noting the app ID and the secret phrase.
