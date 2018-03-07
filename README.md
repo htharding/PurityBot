@@ -1,9 +1,5 @@
 # PurificationBot | Making Reddit a Better Place, One Comment at a Time!
 
-**WARNING**
-By the nature of this bot, there are NSFW words contined in the app.js file which the program uses to decide if it should respond or not. If profanity is not allowed on your current screen, you should be cautious when clicking on app.js
-
-
 This is a reddit bot that I built which processes over 45,000 comments per hour. It easily receives reddit comments, and replies with text saying various phrases that essentially say REPENT!, linking to a picture of a priest holding out a cross. I'm having a lot of fun with this project, and will continue to update it in the future.
 
 ## Getting Started
